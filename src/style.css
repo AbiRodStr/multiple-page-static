@@ -4,6 +4,7 @@ h1 {
 }
 body {
   background-color: #fdfebf;
+  max-width: 600px;
 }
 p {
   text-align: center;
@@ -15,4 +16,7 @@ img {
 }
 footer {
   text-align: center;
+}
+a {
+  margin: 20px;
 }
